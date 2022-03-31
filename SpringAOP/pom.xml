@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <springframework.version>4.3.18.RELEASE</springframework.version>
+        <springframework.version>5.3.18</springframework.version>
         <aspectj.version>1.9.1</aspectj.version>
     </properties>
 
